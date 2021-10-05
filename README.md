@@ -1,70 +1,90 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Calculator
 
-## Available Scripts
+Simple Calculator App to practice on the React useReducer Hook
+## Acknowledgements
 
-In the project directory, you can run:
+ - [Run the App](https://calculator.salderosa.com)
+## Authors
 
-### `npm start`
+- [@maidastach](https://www.github.com/maidastach)
+- [Salvatore De Rosa](https://www.salderosa.com)
+  
+## Deployment
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To deploy this project run
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```bash
+  npm run build
+```
+## 🚀 About Me
+I'm a Junior developer with MERN or MEAN stacks
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://salderosa.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatore-de-rosa-270717/)
 
-### `npm run build`
+  
+## 🛠 Skills
+Good knowledge of:
+Javascript,
+Html5,
+Css3,
+Node.js,
+MongoDB,
+Express.js,
+React.js,
+Angular
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Some minor knowledge of:
+C,
+PHP,
+Mysql,
+Python,
+AWS Cloud Services
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  
+## Feedback
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you have any feedback, please reach out to us at info@salderosa.com
 
-### `npm run eject`
+  
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[MIT](https://choosealicense.com/licenses/mit/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  
+## Run Locally
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Clone the project
+```bash
+  git clone https://github.com/maidastach/useReducer-calculator
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Go to the project directory
+```bash
+  cd useReducer-calculator
+```
 
-## Learn More
+Install dependencies
+```bash
+  npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Start the React server
+```bash
+  npm run start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Run the application at
+```bash
+  http://localhost:3000
+```
+  
+## Tech Stack
 
-### Code Splitting
+**Client:** React
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
